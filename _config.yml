@@ -23,7 +23,7 @@ repository               : "deleonja/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/foto-jadeleon-S.jpg"
+  avatar           : "foto-jadeleon-S.jpg"
   name             : "Jose Alfredo de Leon"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate @ Universidad Nacional Autónoma de México"
@@ -38,7 +38,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=igS0TV4AAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : # "https://orcid.org/yourorcidurl"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
