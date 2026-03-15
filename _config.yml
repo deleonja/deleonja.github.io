@@ -26,11 +26,11 @@ author:
   avatar           : "images/foto-jadeleon-S.jpg"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "PhD candidate @ Universidad Nacional Autónoma de México"
+  location         : "Mexico city"
+  employer         : "Universidad Nacional Autónoma de México"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "deleongarrido.jose@gmail.com" 
 
   # Academic websites
   academia         : # URL
