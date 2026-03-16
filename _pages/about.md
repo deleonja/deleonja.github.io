@@ -15,7 +15,7 @@ redirect_from:
 
 ## About
  
-I am a Physics PhD candidate at UNAM working in [Prof. Carlos Pineda's group](https://gioc.fisica.unam.mx/). My research explores: 
+I am a Physics PhD candidate at the [Physics Institute](https://www.fisica.unam.mx/?lang=en) of UNAM working in [Prof. Carlos Pineda's group](https://gioc.fisica.unam.mx/). My research explores: 
 - Quantum channels (e.g. Pauli channels and arbitrary-dimensional generalizations) 
 - Quantum chaos
 - Quantum walks
