@@ -23,12 +23,12 @@ repository               : "deleonja/deleonja.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/foto-jadeleon-S.jpg"
+  avatar           : "foto-jadeleon-S.jpg"
   name             : "Jose Alfredo de Leon"
   pronouns         : # example: "she/her"  
   bio              : "Physics PhD Candidate @ UNAM | Quantum chaos & channels"
   location         : "Mexico city"
-  employer         : "Universidad Nacional Autónoma de México"
+  employer         : "UNAM"
   uri              : # URL
   email            : "deleongarrido.jose@gmail.com" 
 
