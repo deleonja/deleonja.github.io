@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Jose Alfredo de Leon"
 title_separator          : "-"
 name                     : &name "Jose Alfredo de Leon"
@@ -26,11 +26,11 @@ author:
   avatar           : "foto-jadeleon-S.jpg"
   name             : "Jose Alfredo de Leon"
   pronouns         : # example: "she/her"  
-  bio              : "Physics PhD Candidate @ UNAM | Quantum chaos & channels"
-  location         : "Mexico city"
+  bio              : "Physics PhD Candidate @ UNAM | Quantum stuff"
+  location         : "Mexico City"
   employer         : "UNAM"
   uri              : # URL
-  email            : "deleongarrido.jose@gmail.com" 
+  email            : #"deleongarrido.jose@gmail.com" 
 
   # Academic websites
   academia         : # URL
