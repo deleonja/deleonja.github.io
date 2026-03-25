@@ -6,5 +6,5 @@ author_profile: true
 sitemap: false
 ---
 
-* [Carta de inicio asesor](/files/carta_inicio.docx)
+* [carta-inicio-asesor.docx](/files/carta_inicio.docx)
 
