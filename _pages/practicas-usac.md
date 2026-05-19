@@ -1,5 +1,5 @@
 ---
-title: "Inscripción de Prácticas Finales - USAC"
+title: "Documentos Prácticas Finales ECFM-USAC"
 layout: single
 permalink: /archivos-practicas/
 author_profile: true
