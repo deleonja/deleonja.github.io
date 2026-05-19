@@ -32,18 +32,23 @@ This project includes the co-organization of a week-long hands-on introductory c
 
 ## Undergraduate final internship projects
 
-1. **Saúl Najera** (ECFM-USAC)
-<span style="float:right;">September 2025 -- present</span><br>
+1. **Dessiré Zapeta** (ECFM-USAC)
+<span style="float:right;">May 2026 -- Present</span><br>
+*Quantum chaos in quantum walks:* <br>
+Investigation of the level spacing distributions of discrete-time quantum walks in billiards.
+
+2. **Saúl Najera** (ECFM-USAC)
+<span style="float:right;">September 2025 -- May 2026</span><br>
 *Quantum chaos in the Bose–Hubbard model:* <br>
 Characterization of the integrable-to-chaos transition in the Bose–Hubbard model.
 
-2. **Mariana Pérez Muralles** (ECFM-USAC)
+3. **Mariana Pérez Muralles** (ECFM-USAC)
 <span style="float:right;">August 2023 -- November 2024</span><br>
 *Discrete-time quantum walks:* <br>
 Theoretical framework and numerical implementation of discrete-time quantum walks. <br>
 [[Final report (in Spanish)](/files/informe_practicas_mariana.pdf)]
 
-3. **Amado Cabrera Estrada** (ECFM-USAC)
+4. **Amado Cabrera Estrada** (ECFM-USAC)
 <span style="float:right;">August 2023 -- November 2024</span><br>
 *Discrete-time quantum walks:* <br>
 Theoretical framework and numerical implementation of discrete-time quantum walks. \
