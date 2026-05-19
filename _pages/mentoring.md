@@ -41,6 +41,12 @@ Investigation of the level spacing distributions of discrete-time quantum walks 
 <span style="float:right;">September 2025 -- May 2026</span><br>
 *Quantum chaos in the Bose–Hubbard model:* <br>
 Characterization of the integrable-to-chaos transition in the Bose–Hubbard model.
+[[Final report (in Spanish)](/files/informe_practicas_saul.pdf)]
+
+<figure>
+  <img src="/files/resumen_practicas_saul.png" alt="Descripción de la imagen" width="100">
+  <figcaption>Integrable-to-chaos transition in the Bose-Hubbard model with N=L (N: bosons, L: sites) (a) KL divergence. (b) Mean spacing ratio. </figcaption>
+</figure>
 
 3. **Mariana Pérez Muralles** (ECFM-USAC)
 <span style="float:right;">August 2023 -- November 2024</span><br>
