@@ -43,10 +43,13 @@ Investigation of the level spacing distributions of discrete-time quantum walks 
 Characterization of the integrable-to-chaos transition in the Bose–Hubbard model.
 [[Final report (in Spanish)](/files/informe_practicas_saul.pdf)]
 
-<figure>
-  <img src="/files/resumen_practicas_saul.png" alt="Descripción de la imagen" width="100">
-  <figcaption>Integrable-to-chaos transition in the Bose-Hubbard model with N=L (N: bosons, L: sites) (a) KL divergence. (b) Mean spacing ratio. </figcaption>
-</figure>
+<p align="center">
+  <img src="/files/resumen_practicas_saul.png" alt="Descripción de la imagen" width="400"/>
+</p>
+
+*Integrable-to-chaos transition in the Bose-Hubbard model with N=L (N: bosons, L: sites)
+(a) KL divergence between numerical $$P(r)$$ and $$P_{\mathrm{GOE}}(r)$$ (filled markers) and
+$$P_{\mathrm{GOE}}(r)$$ (open markers). (b) Mean level spacing ratio.*
 
 3. **Mariana Pérez Muralles** (ECFM-USAC)
 <span style="float:right;">August 2023 -- November 2024</span><br>
