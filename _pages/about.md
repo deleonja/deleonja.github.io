@@ -1,17 +1,11 @@
 ---
 permalink: /
-title: "J.A. de Leon"
+title: "Jose Alfredo de Leon"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-<style>
-  .page__title {
-    display: none;
-  }
-</style>
 
 ## About
  
