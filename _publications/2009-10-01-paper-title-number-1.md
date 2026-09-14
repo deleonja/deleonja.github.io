@@ -1,6 +1,8 @@
 ---
 title: "Pauli component erasing quantum channels"
 collection: publications
+published: false
+sitemap: false
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ''
