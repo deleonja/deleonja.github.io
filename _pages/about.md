@@ -1,6 +1,8 @@
 ---
 permalink: /
 title: "Jose Alfredo de Leon"
+seo_title: "Jose Alfredo de Leon - Physics PhD Candidate at UNAM"
+description: "Jose Alfredo de Leon is a physics PhD candidate at UNAM researching quantum channels, quantum chaos, and quantum walks."
 author_profile: true
 redirect_from: 
   - /about/
