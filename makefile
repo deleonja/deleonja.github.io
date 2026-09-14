@@ -1,5 +1,5 @@
 # Variables
-SERVE_CMD = bundle exec jekyll serve --livereload
+SERVE_CMD = bundle exec jekyll serve --livereload --config _config.yml,_config_docker.yml
 
 .PHONY: help serve install update build
 

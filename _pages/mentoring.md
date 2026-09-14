@@ -11,6 +11,12 @@ author_profile: true
 </style>
 
 # Projects mentored
+Toward the end of my master's degree at UNAM in Mexico, I wanted to
+explore my research ideas through collaboration while also contributing
+to my alma mater, Universidad de San Carlos de Guatemala. I therefore
+began looking for undergraduate students there who were interested in
+working with me on these topics. I am pleased that one of these
+collaborations ultimately led to a research paper.
 
 ## Undergraduate graduation projects
 
@@ -33,34 +39,36 @@ This project includes the co-organization of a week-long hands-on introductory c
 ## Undergraduate final internship projects
 
 1. **Dessiré Zapeta** (ECFM-USAC)
-<span style="float:right;">May 2026 -- Present</span><br>
-*Quantum chaos in quantum walks:* <br>
-Investigation of the level spacing distributions of discrete-time quantum walks in billiards.
+   <span style="float:right;">May 2026 -- Present</span><br>
+   *Quantum chaos in quantum walks:* <br>
+   Investigation of the level spacing distributions of discrete-time quantum walks in billiards.
 
 2. **Saúl Najera** (ECFM-USAC)
-<span style="float:right;">September 2025 -- May 2026</span><br>
-*Quantum chaos in the Bose–Hubbard model:* <br>
-Characterization of the integrable-to-chaos transition in the Bose–Hubbard model.
-[[Final report (in Spanish)](/files/informe_practicas_saul.pdf)]
+   <span style="float:right;">September 2025 -- May 2026</span><br>
+   *Quantum chaos in the Bose–Hubbard model:* <br>
+   Characterization of the integrable-to-chaos transition in the Bose–Hubbard model.  
+   [[Final report (in Spanish)](/files/informe_practicas_saul.pdf)]
 
-<p align="center">
-  <img src="/files/resumen_practicas_saul.png" alt="Descripción de la imagen" width="400"/>
-</p>
+   <p align="center">
+     <img src="/files/resumen_practicas_saul.png"
+          alt="Descripción de la imagen" width="400"/>
+   </p>
 
-*Integrable-to-chaos transition in the Bose-Hubbard model with N=L (N: bosons, L: sites)
-(a) KL divergence between numerical $$P(r)$$ and $$P_{\mathrm{GOE}}(r)$$ (filled markers) and
-$$P_{\mathrm{GOE}}(r)$$ (open markers). (b) Mean level spacing ratio.*
+   *Integrable-to-chaos transition in the Bose-Hubbard model with N=L
+   (N: bosons, L: sites). (a) KL divergence between numerical
+   $$P(r)$$ and $$P_{\mathrm{GOE}}(r)$$ (filled markers) and
+   $$P_{\mathrm{GOE}}(r)$$ (open markers). (b) Mean level spacing ratio.*
 
 3. **Mariana Pérez Muralles** (ECFM-USAC)
-<span style="float:right;">August 2023 -- November 2024</span><br>
-*Discrete-time quantum walks:* <br>
-Theoretical framework and numerical implementation of discrete-time quantum walks. <br>
-[[Final report (in Spanish)](/files/informe_practicas_mariana.pdf)]
+   <span style="float:right;">August 2023 -- November 2024</span><br>
+   *Discrete-time quantum walks:* <br>
+   Theoretical framework and numerical implementation of discrete-time quantum walks. <br>
+   [[Final report (in Spanish)](/files/informe_practicas_mariana.pdf)]
 
 4. **Amado Cabrera Estrada** (ECFM-USAC)
-<span style="float:right;">August 2023 -- November 2024</span><br>
-*Discrete-time quantum walks:* <br>
-Theoretical framework and numerical implementation of discrete-time quantum walks. \
-\
-A Wolfram Language package developed by Amado during this project is available at [https://github.com/AmadoCab/QW](https://github.com/AmadoCab/QW). \
-[[Final report (in Spanish)](/files/informe_practicas_amado.pdf)]
+   <span style="float:right;">August 2023 -- November 2024</span><br>
+   *Discrete-time quantum walks:* <br>
+   Theoretical framework and numerical implementation of discrete-time quantum walks.  
+   A Wolfram Language package developed by Amado during this project is available at
+   [https://github.com/AmadoCab/QW](https://github.com/AmadoCab/QW).  
+   [[Final report (in Spanish)](/files/informe_practicas_amado.pdf)]

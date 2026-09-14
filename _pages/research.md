@@ -10,6 +10,11 @@ author_profile: true
   }
 </style>
 
+## Research articles
+
+{% include publication-list.html %}
+
+{% comment %}
 My research explores:
 
 ## Quantum channels
@@ -42,3 +47,4 @@ Can the BHS y GHS conjectures be put into a single framework?
 ## References
 
 1. <a id="ref1"></a> **Jose Alfredo de Leon, Alejandro Fonseca, Francois Leyvraz, David Davalos, Carlos Pineda**, *"Pauli Component Erasing Channels"*, Physical Review A **106**, 042604 (2022). [arXiv:2205.05808v2](https://arxiv.org/abs/2205.05808v2)
+{% endcomment %}
