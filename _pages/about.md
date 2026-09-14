@@ -2,7 +2,7 @@
 permalink: /
 title: "Jose Alfredo de Leon"
 seo_title: "Jose Alfredo de Leon - Physics PhD Candidate at UNAM"
-description: "Jose Alfredo de Leon is a physics PhD candidate at UNAM researching quantum channels, quantum chaos, and quantum walks."
+description: "I am a physics PhD candidate at UNAM researching quantum channels, quantum chaos, and quantum walks."
 author_profile: true
 redirect_from: 
   - /about/
@@ -22,15 +22,7 @@ Feel free to reach out at <deleongarrido.jose@gmail.com>
 
 ## Research articles
 
-1. *Choi echo: dynamical irreversibility and local decoherence in quantum many-body chaos*<br>
-**Jose Alfredo de Leon**, Miguel Gonzalez, Carlos Diaz-Mejia<br>
-[[arXiv.2512.11030](https://doi.org/10.48550/arXiv.2512.11030)]
-2. *Weyl channels for multipartite systems*<br>
-Tomas Basile, **Jose Alfredo de Leon** (co-first author), Alejandro Fonseca, Francois Leyvraz, Carlos Pineda<br>
-[[Phys. Rev. A 109, 032607 (2024)](https://doi.org/10.1103/PhysRevA.109.032607)] [[arXiv.2310.10947](https://doi.org/10.48550/arXiv.2310.10947)]
-3. *Pauli component erasing quantum channels*<br>
-**Jose Alfredo de Leon**, Alejandro Fonseca, Francois Leyvraz, David Davalos, Carlos Pineda<br>
-[[Phys. Rev. A 106, 042604 (2022)]](https://doi.org/10.1103/PhysRevA.106.042604) [[arXiv:2205.05808v2]](https://doi.org/10.48550/arXiv.2205.05808)
+{% include publication-list.html %}
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template! 
 
