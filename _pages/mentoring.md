@@ -23,16 +23,18 @@ collaborations ultimately led to a research paper.
 1. **Mariana Pérez Muralles**[^1] (ECFM-USAC) 
 <span style="float:right;">March 2025 -- August 2026</span><br>
 *Parrondo's paradox in discrete-time quantum walks* \
-Investigation of the emergence of a genuine Parrondo's paradox in 1D discrete-time quantum walks using homogeneous coin operators. \
+Investigation of the emergence of Parrondo's paradox in 1D discrete-time quantum walks using homogeneous coin operators. \
 \
 This project includes the co-organization of a week-long hands-on introductory course on Wolfram Mathematica ([course website](https://www.notion.so/amadocab/De-ecuaciones-a-c-digo-22a6c4e3f1c880a8a7cace2255612b35)).
+[[Thesis (in Spanish)](/files/tesis_mariana.pdf)]
 
 2. **Amado Cabrera Estrada**[^1] (ECFM-USAC)
 <span style="float:right;">March 2025 -- August 2026</span><br>
 *Imperfect measurements in discrete-time quantum walks* <br>
-Analysis of the effects of imperfect measurement apparatus, within the quantum channel-based framework of fuzzy measurements, on 1D discrete-time quantum walks. \
+Analysis of the effects of imperfect measurement apparatus, within the quantum channel-based framework of [fuzzy measurements](https://arxiv.org/abs/2011.03145), on 1D discrete-time quantum walks. \
 \
 This project includes the co-organization of a week-long hands-on introductory course on Wolfram Mathematica ([course website](https://www.notion.so/amadocab/De-ecuaciones-a-c-digo-22a6c4e3f1c880a8a7cace2255612b35)).
+[[Thesis (in Spanish)](/files/tesis_amado.pdf)]
 
 [^1]: Co-advised with Prof. Carlos Pineda.
 
