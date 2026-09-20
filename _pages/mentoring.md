@@ -1,6 +1,8 @@
 ---
 title: "Mentoring"
 permalink: /mentoring/
+lang: en
+translation_url: /es/mentoria/
 author_profile: true
 ---
 

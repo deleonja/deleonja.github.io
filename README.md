@@ -22,6 +22,18 @@ Additional tutorials for working with the Academic Pages template can be found a
 
 ## Running locally
 
+## Bilingual content
+
+The public pages have English and Spanish counterparts. When updating visible content:
+
+1. Edit the English file in `_pages/` and its Spanish counterpart ending in `-es.md`.
+2. Keep `translation_url` in both files pointing to the equivalent page in the other language.
+3. Add or rename menu entries in both `main_en` and `main_es` in `_data/navigation.yml`.
+
+The language button, page language metadata, alternate-language links, navigation, author profile labels, and footer are generated automatically from each page's `lang` and `translation_url` values. The home page at `/` is always English; Spanish is available at `/es/`.
+
+Run `make server` to preview both versions with LiveReload at `http://localhost:4000`.
+
 When you are initially working on your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
 
 1. Clone the repository and made updates as detailed above.

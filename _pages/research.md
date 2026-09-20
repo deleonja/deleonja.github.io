@@ -1,6 +1,8 @@
 ---
 title: "Research"
 permalink: /research/
+lang: en
+translation_url: /es/investigacion/
 author_profile: true
 ---
 

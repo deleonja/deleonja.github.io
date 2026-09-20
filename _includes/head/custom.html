@@ -14,4 +14,10 @@
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="#ffffff"/>
 
+{% if page.translation_url %}
+  {% assign page_lang = page.lang | default: "en" %}
+  <link rel="alternate" hreflang="{{ page_lang }}" href="{{ page.url | absolute_url }}"/>
+  <link rel="alternate" hreflang="{% if page_lang == 'es' %}en{% else %}es{% endif %}" href="{{ page.translation_url | absolute_url }}"/>
+{% endif %}
+
 <!-- end custom head snippets -->

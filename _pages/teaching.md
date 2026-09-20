@@ -1,6 +1,8 @@
 ---
 title: "Teaching"
 permalink: /teaching/
+lang: en
+translation_url: /es/docencia/
 author_profile: true
 ---
 

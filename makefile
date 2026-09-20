@@ -1,7 +1,7 @@
 # Variables
 SERVE_CMD = bundle exec jekyll serve --livereload --config _config.yml,_config_docker.yml
 
-.PHONY: help serve install update build
+.PHONY: help server install update build
 
 help: ## Muestra los comandos disponibles
 	@grep -E '^[a-zA-Z_-]+:.*?## .*$$' $(MAKEFILE_LIST) | awk 'BEGIN {FS = ":.*?## "}; {printf "\033[36m%-15s\033[0m %s\n", $$1, $$2}'
