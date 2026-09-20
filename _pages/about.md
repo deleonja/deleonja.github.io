@@ -13,12 +13,19 @@ redirect_from:
 
 I am a Physics PhD candidate at [Instituto de Física](https://www.fisica.unam.mx/?lang=en) of UNAM working in [Prof. Carlos Pineda's group](https://gioc.fisica.unam.mx/). 
 
+# Research interests
+
 My research explores: 
+
 - Quantum channels (e.g. Pauli channels and arbitrary-dimensional generalizations) 
 - Quantum chaos
 - Quantum walks
 
 I am also interested in the interplay and intersections between these areas.
+
+See the [list of my research articles](/research/).
+
+# Contact
 
 Reach out at <deleongarrido.jose@gmail.com>
 
