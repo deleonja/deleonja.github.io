@@ -7,11 +7,11 @@
 {% assign ui_text = site.data.ui-text[page_lang] %}
 {% if page_lang == "es" %}
   {% assign author_bio = "Candidato a Doctor en Ciencias (Física) en la UNAM | Cuántica" %}
-  {% assign author_location = "Ciudad de México" %}
+  {% assign author_location = "UNAM, Ciudad de México" %}
   {% assign follow_label = "Contacto" %}
 {% else %}
   {% assign author_bio = author.bio %}
-  {% assign author_location = author.location %}
+  {% assign author_location = "UNAM, Mexico City" %}
   {% assign follow_label = "Follow" %}
 {% endif %}
 
@@ -37,9 +37,6 @@
       <!-- Font Awesome icons / Biographic information  -->
       {% if author_location %}
         <li class="author__desktop"><i class="fas fa-fw fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author_location }}</li>
-      {% endif %}
-      {% if author.employer %}
-        <li class="author__desktop"><i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.employer }}</li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ ui_text.website_label | default: "Website" }}</a></li>
