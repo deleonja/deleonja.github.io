@@ -33,7 +33,10 @@
           {% if page.translation_url %}
             <li class="masthead__menu-item persist language-switcher">
               <a href="{{ base_path }}{{ page.translation_url }}" data-language-switch hreflang="{% if page_lang == 'es' %}en{% else %}es{% endif %}" lang="{% if page_lang == 'es' %}en{% else %}es{% endif %}" title="{{ language_title }}" aria-label="{{ language_title }}">
-                <span>{{ language_label }}</span>
+                <i class="fas fa-globe" aria-hidden="true"></i>
+                <span class="language-switcher__code{% if page_lang != "es" %} is-active{% endif %}"{% if page_lang != "es" %} aria-current="true"{% endif %}>EN</span>
+                <span class="language-switcher__separator" aria-hidden="true">/</span>
+                <span class="language-switcher__code{% if page_lang == "es" %} is-active{% endif %}"{% if page_lang == "es" %} aria-current="true"{% endif %}>ES</span>
               </a>
             </li>
           {% endif %}

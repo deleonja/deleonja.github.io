@@ -225,6 +225,23 @@
       }
     }
 
+    .language-switcher a {
+      display: flex;
+      align-items: center;
+      gap: 0.3em;
+      font-size: 0.8em;
+      letter-spacing: 0.03em;
+
+      &:before { display: none; }
+    }
+
+    .language-switcher__code { opacity: 0.55; }
+    .language-switcher__code.is-active {
+      opacity: 1;
+      font-weight: 700;
+      color: var(--global-text-color);
+    }
+
     #theme-toggle {
       a {
         width: 25px;
