@@ -22,7 +22,13 @@ collaborations ultimately led to a research paper.
 
 ## Undergraduate graduation projects
 
-1. **Mariana Pérez Muralles**[^1] (ECFM-USAC) 
+1. **Saúl Najera** (ECFM-USAC)
+<span style="float:right;">September 2026 -- Present</span><br>
+*Discrete-time quantum walks in billiards* <br>
+Analysis of the emergence of quantum chaos for a quantum walker in billiard geometries, such as the rectangle and the Sinai billiard.
+
+
+2. **Mariana Pérez Muralles**[^1] (ECFM-USAC) 
 <span style="float:right;">March 2025 -- August 2026</span><br>
 *Parrondo's paradox in discrete-time quantum walks* \
 Investigation of the emergence of Parrondo's paradox in 1D discrete-time quantum walks using homogeneous coin operators. \
@@ -30,7 +36,7 @@ Investigation of the emergence of Parrondo's paradox in 1D discrete-time quantum
 This project includes the co-organization of a week-long hands-on introductory course on Wolfram Mathematica ([course website](https://www.notion.so/amadocab/De-ecuaciones-a-c-digo-22a6c4e3f1c880a8a7cace2255612b35)).
 [[Thesis (in Spanish)](/files/tesis_mariana.pdf)]
 
-2. **Amado Cabrera Estrada**[^1] (ECFM-USAC)
+3. **Amado Cabrera Estrada**[^1] (ECFM-USAC)
 <span style="float:right;">March 2025 -- August 2026</span><br>
 *Imperfect measurements in discrete-time quantum walks* <br>
 Analysis of the effects of imperfect measurement apparatus, within the quantum channel-based framework of [fuzzy measurements](https://arxiv.org/abs/2011.03145), on 1D discrete-time quantum walks. \

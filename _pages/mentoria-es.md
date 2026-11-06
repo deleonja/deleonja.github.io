@@ -20,7 +20,13 @@ Si sos estudiante de licenciatura y te interesan mis temas de investigación o t
 
 ## Proyectos de graduación de licenciatura
 
-1. **Mariana Pérez Muralles**[^1] (ECFM-USAC)
+1. **Saúl Najera** (ECFM-USAC)
+<span style="float:right;">Septiembre de 2026 -- actualidad</span><br>
+*Caminatas cuánticas de tiempo discreto en billares* <br>
+Análisis de la emergencia del caos cuántico de un caminante cuántico en geometrías de billares, como el rectángulo y el billar de Sinaí.
+
+
+2. **Mariana Pérez Muralles**[^1] (ECFM-USAC)
 <span style="float:right;">Marzo de 2025 -- agosto de 2026</span><br>
 *Paradoja de Parrondo en caminatas cuánticas de tiempo discreto* \
 Investigación sobre la aparición de la paradoja de Parrondo en caminatas cuánticas unidimensionales de tiempo discreto con operadores de moneda homogéneos. \
@@ -28,7 +34,7 @@ Investigación sobre la aparición de la paradoja de Parrondo en caminatas cuán
 Este proyecto incluye la coorganización de un curso introductorio práctico de una semana sobre Wolfram Mathematica ([sitio del curso](https://www.notion.so/amadocab/De-ecuaciones-a-c-digo-22a6c4e3f1c880a8a7cace2255612b35)).
 [[Tesis](/files/tesis_mariana.pdf)]
 
-2. **Amado Cabrera Estrada**[^1] (ECFM-USAC)
+3. **Amado Cabrera Estrada**[^1] (ECFM-USAC)
 <span style="float:right;">Marzo de 2025 -- agosto de 2026</span><br>
 *Mediciones imperfectas en caminatas cuánticas de tiempo discreto* <br>
 Análisis de los efectos de aparatos de medición imperfectos en caminatas cuánticas unidimensionales de tiempo discreto, dentro del marco de canales cuánticos de las [mediciones difusas](https://arxiv.org/abs/2011.03145). \
