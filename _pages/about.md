@@ -17,9 +17,10 @@ I am a Physics PhD candidate at [Instituto de Física](https://www.fisica.unam.m
 
 My research explores: 
 
-- Quantum channels (e.g. Pauli channels and arbitrary-dimensional generalizations) 
+- Quantum state texture
 - Quantum chaos
 - Quantum walks
+- Quantum channels (e.g. Pauli channels and arbitrary-dimensional generalizations)
 
 I am also interested in the interplay and intersections between these areas.
 

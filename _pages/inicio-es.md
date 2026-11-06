@@ -14,9 +14,10 @@ Soy candidato a Doctor en Ciencias (Física) en el [Instituto de Física](https:
 
 Mi investigación se centra en:
 
-- Canales cuánticos (por ejemplo, canales de Pauli y sus generalizaciones a dimensiones arbitrarias)
+- Textura de estados cuánticos
 - Caos cuántico
 - Caminatas cuánticas
+- Canales cuánticos (por ejemplo, canales de Pauli y sus generalizaciones a dimensiones arbitrarias)
 
 También me interesan la intersección entre estas áreas.
 
