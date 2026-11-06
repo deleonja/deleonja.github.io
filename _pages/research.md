@@ -14,6 +14,8 @@ author_profile: true
 
 ## Research articles
 
+For an updated list, see [arXiv]({{ site.author.arxiv }}).
+
 {% include publication-list.html %}
 
 {% comment %}

@@ -14,4 +14,6 @@ author_profile: true
 
 ## Artículos de investigación
 
+Lista actualizada en [arXiv]({{ site.author.arxiv }}).
+
 {% include publication-list.html %}
