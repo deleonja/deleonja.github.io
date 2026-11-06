@@ -36,6 +36,11 @@ Investigation of the emergence of Parrondo's paradox in 1D discrete-time quantum
 This project includes the co-organization of a week-long hands-on introductory course on Wolfram Mathematica ([course website](https://www.notion.so/amadocab/De-ecuaciones-a-c-digo-22a6c4e3f1c880a8a7cace2255612b35)).
 [[Thesis (in Spanish)](/files/tesis_mariana.pdf)]
 
+   <figure>
+     <img src="/files/mariana_figura_2_5_a.png" alt="Phase diagram of Parrondo’s paradox" style="max-width: 100%; width: 550px;">
+     <figcaption style="color: var(--global-text-color); font-size: 0.9em;">Phase diagram for the emergence of Parrondo’s paradox (blue region) in discrete-time quantum walks. For details, see <a href="/files/tesis_mariana.pdf">Mariana’s thesis</a>.</figcaption>
+   </figure>
+
 3. **Amado Cabrera Estrada**[^1] (ECFM-USAC)
 <span style="float:right;">March 2025 -- August 2026</span><br>
 *Imperfect measurements in discrete-time quantum walks* <br>
@@ -43,6 +48,11 @@ Analysis of the effects of imperfect measurement apparatus, within the quantum c
 \
 This project includes the co-organization of a week-long hands-on introductory course on Wolfram Mathematica ([course website](https://www.notion.so/amadocab/De-ecuaciones-a-c-digo-22a6c4e3f1c880a8a7cace2255612b35)).
 [[Thesis (in Spanish)](/files/tesis_amado.pdf)]
+
+   <figure>
+     <img src="/files/amado_figura_3_5_superior.png" alt="Probability distributions for different decoherence probabilities" style="max-width: 100%; width: 550px;">
+     <figcaption style="color: var(--global-text-color); font-size: 0.9em;">Effect of the fuzzy shift channel on the probability distribution of a discrete-time quantum walk on an infinite line after 100 steps, for different values of the decoherence probability. For details, see <a href="/files/tesis_amado.pdf">Amado’s thesis</a>.</figcaption>
+   </figure>
 
 [^1]: Co-advised with Prof. Carlos Pineda.
 
@@ -59,15 +69,15 @@ This project includes the co-organization of a week-long hands-on introductory c
    Characterization of the integrable-to-chaos transition in the Bose–Hubbard model.  
    [[Final report (in Spanish)](/files/informe_practicas_saul.pdf)]
 
-   <p align="center">
-     <img src="/files/resumen_practicas_saul.png"
-          alt="Descripción de la imagen" width="400"/>
-   </p>
+   <figure>
+     <div style="display: flex; gap: 0.5rem; align-items: flex-start;">
+       <img src="/files/saul_panel_a.png" alt="Panel a: KL divergence" style="width: calc(50% - 0.25rem);">
+       <img src="/files/saul_panel_b.png" alt="Panel b: mean level spacing ratio" style="width: calc(50% - 0.25rem);">
+     </div>
+   
 
-   *Integrable-to-chaos transition in the Bose-Hubbard model with N=L
-   (N: bosons, L: sites). (a) KL divergence between numerical
-   $$P(r)$$ and $$P_{\mathrm{GOE}}(r)$$ (filled markers) and
-   $$P_{\mathrm{GOE}}(r)$$ (open markers). (b) Mean level spacing ratio.*
+   <figcaption style="color: var(--global-text-color); font-size: 0.9em;">Transition from integrable to chaotic behavior in the Bose–Hubbard model. The panels show how two measures of quantum chaos change with the interaction strength. For details, see <a href="/files/informe_practicas_saul.pdf">Saúl’s report</a>.</figcaption>
+   </figure>
 
 3. **Mariana Pérez Muralles** (ECFM-USAC)
    <span style="float:right;">August 2023 -- November 2024</span><br>
